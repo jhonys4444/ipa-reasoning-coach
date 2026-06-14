@@ -38,6 +38,10 @@ IPA Reasoning Coach exists for that learner: the person who is technically advan
 
 ---
 
+🎥 Demo Video: https://youtu.be/8pRitv5Arro
+
+---
+
 ## What It Does
 
 Most pronunciation tools tell you *what* a word sounds like. IPA Reasoning Coach tells you *why* it sounds that way — and *why a speaker chose that form* in that specific communicative context.
